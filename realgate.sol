@@ -1,5 +1,6 @@
 /**
  *Submitted for verification at BscScan.com on 2021-09-18
+ *developer Raymond Richard 900raymondraymond@gmail.com
 */
 
 // SPDX-License-Identifier: MIT
